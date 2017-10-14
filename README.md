@@ -1,8 +1,7 @@
 RunDotEnv
 =========
 
-Command line utility. Execute a command with env variables from one or more .env files Edit
-Add topics
+Command line utility. Execute a command with env variables from one or more .env files.
 
 Installation
 ------------
