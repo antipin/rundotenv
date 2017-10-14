@@ -1,0 +1,4 @@
+[ ] Make proof of concept
+[ ] Add tests
+[ ] Add flag that excludes system env variables from output
+[ ] Split code to modules
