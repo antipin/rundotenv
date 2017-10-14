@@ -7,6 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alexander I. Antipin",
-  "license": "MIT"
+  "author": "Alexander I. Antipin <alex@antipin.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:antipin/rundotenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antipin/rundotenv/issues"
+  },
+  "homepage": "https://github.com/antipin/rundotenv"
 }
