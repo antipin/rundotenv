@@ -1,4 +1,5 @@
 [ ] Make proof of concept
+[ ] Set up npm package so that it add binary to node_modules/.bin
 [ ] Add tests
 [ ] Pass system signals to child process
 [ ] Add flag that excludes system env variables from output
