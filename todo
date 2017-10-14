@@ -1,4 +1,5 @@
 [ ] Make proof of concept
 [ ] Add tests
+[ ] Pass system signals to child process
 [ ] Add flag that excludes system env variables from output
 [ ] Split code to modules
