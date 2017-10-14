@@ -1,7 +1,7 @@
 RunDotEnv
 =========
 
-Command line utility. Execute a command with env variables from one or more .env files.
+Zero dependency command line utility. Execute a command with env variables from one or more .env files.
 
 Installation
 ------------
